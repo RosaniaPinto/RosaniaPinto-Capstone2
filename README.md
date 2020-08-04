@@ -1,8 +1,8 @@
-# RosaniaPinto-Capstone2
+# Title TBA Looking into Airbnb in Nevada...
 
-Looking into Airbnb for Clark County, NV, Nevada, United States (updated to December 31, 2019)
+Airbnb data source - http://insideairbnb.com/get-the-data.html
 
-The files used below 
+Looking into Airbnb data for Clark County, NV, Nevada, United States (Date Compiled: June 25, 2019)
 
-https://drive.google.com/drive/folders/139FFTOqPIqfFzqpeh549QNlpJPMtXuq4?usp=sharing
+The data source files used for this capstone - https://drive.google.com/drive/folders/139FFTOqPIqfFzqpeh549QNlpJPMtXuq4?usp=sharing
 
