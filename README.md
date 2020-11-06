@@ -11,6 +11,8 @@ Finding the best value Airbnb listings based on affordability and distance from 
 
 Found 11 listings that were at or below $300 for weekly rent
 
+Narrowed down to one listing that's the best value for your money
+
 ## Next Steps
 
 Displaying Airbnb listings for different budgets in Las Vegas, Nevada and surrounding areas
