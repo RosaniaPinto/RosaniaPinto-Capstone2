@@ -1,4 +1,4 @@
-# Capstone 4
+# Capstone 2
 # Booking your future Airbnb for EVO by Rosania Pinto
 
 ## Objective 
