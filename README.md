@@ -8,12 +8,14 @@ Planning ahead for a week long vacation in Las Vegas, Nevada to attend EVO, a fi
 ## Recommendations 
 
 Finding the best value Airbnb listings based on affordability and distance from the tournament venue
+
 Found 11 listings that were at or below $300 for weekly rent
 
 ## Next Steps
 
 Displaying Airbnb listings for different budgets in Las Vegas, Nevada and surrounding areas
 
+Planning out earlier in the year for the week vacation to see any differences in pricing 
 
 ## Technologies Used
 
